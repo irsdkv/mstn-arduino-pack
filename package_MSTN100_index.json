@@ -11,7 +11,7 @@
 					"name": "MSTN",
 					"architecture": "sam",
 					"version": "1.1.0",
-					"url": "https://github.com/irsdkv/mstn-arduino-pack/blob/master/mstn/hardware/package_MSTN_index.zip",
+					"url": "https://github.com/irsdkv/mstn-arduino-pack/raw/master/mstn/hardware/package_MSTN_index.zip",
 					"archiveFileName": "package_MSTN_index.zip",
 					"checksum": "SHA-256:4BB8718CFA2DC8CFA4E8C26658CDDFFBB2ADA58D0489DB422FBDC0552825D88B",
 					"size": "481698",
@@ -49,7 +49,7 @@
 						{
 							"host": "i686-mingw32",
 							"archiveFileName": "arm-none-eabi-5.4-2016q3.zip",
-							"url": "https://github.com/irsdkv/mstn-arduino-pack/blob/master/mstn/tools/arm-none-eabi-5.4-2016q3.zip",
+							"url": "https://github.com/irsdkv/mstn-arduino-pack/raw/master/mstn/tools/arm-none-eabi-5.4-2016q3.zip",
 							"checksum": "SHA-256:C87DF9211AFC83D19BB02262BC537540D17B612941CA3528F5453926D435D617",
 							"size": "78941941"
 						}
@@ -63,7 +63,7 @@
 					{
 						"host": "i686-mingw32",
 						"archiveFileName": "client.zip",
-						"url": "https://github.com/irsdkv/mstn-arduino-pack/blob/master/mstn/tools/client.zip",
+						"url": "https://github.com/irsdkv/mstn-arduino-pack/raw/master/mstn/tools/client.zip",
 						"checksum": "SHA-256:E1DCD363BA3C357A9B405096021BBC4A580D857EF5A6E1B7B6D702A9631777EF",
 						"size": "415420"
 					}
