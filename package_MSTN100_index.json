@@ -50,8 +50,8 @@
 							"host": "i686-mingw32",
 							"archiveFileName": "arm-none-eabi-5.4-2016q3.zip",
 							"url": "https://github.com/irsdkv/mstn-arduino-pack/tree/master/mstn/tools/arm-none-eabi-5.4-2016q3.zip",
-							"checksum": "SHA-256:D54DD9C7BB4BB96ADAD9D2DF44B5BC8496A7EC6372A4BE89181BF1C1C6EC2934",
-							"size": "123214593"
+							"checksum": "SHA-256:C87DF9211AFC83D19BB02262BC537540D17B612941CA3528F5453926D435D617",
+							"size": "78941941"
 						}
 					]
 				},
