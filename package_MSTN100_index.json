@@ -3,7 +3,7 @@
 	[
 		{
 			"name": "MSTN",
-			"maintrainer": "INTEC",
+			"maintainer": "INTEC",
 			"websiteURL": "https://mstn.info",
 			"platforms":
 			[
@@ -13,8 +13,8 @@
 					"version": "1.1.0",
 					"url": "https://github.com/irsdkv/mstn-arduino-pack/raw/master/mstn/hardware/package_MSTN_index.zip",
 					"archiveFileName": "package_MSTN_index.zip",
-					"checksum": "SHA-256:22A3DD7C44DE7F579B6AF41FBBDD5801D9F5989C06E520F062EEF99487013CBA",
-					"size": "481545",
+					"checksum": "SHA-256:1DF3629E0815C9627F0107CADE0B667C6EB8DFF147092C87D448D912BAF50DD9",
+					"size": "481145",
 					"boards":
 					[
 						{"name": "MSTN-100"}
