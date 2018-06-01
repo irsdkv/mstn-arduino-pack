@@ -64,8 +64,8 @@
 						"host": "i686-mingw32",
 						"archiveFileName": "client.zip",
 						"url": "https://github.com/irsdkv/mstn-arduino-pack/raw/master/mstn/tools/client.zip",
-						"checksum": "SHA-256:E1DCD363BA3C357A9B405096021BBC4A580D857EF5A6E1B7B6D702A9631777EF",
-						"size": "415420"
+						"checksum": "SHA-256:43FE8A8FBAC42347912D8F96C1612B7968DED1908CFF20216A725C36EAE05541",
+						"size": "415646"
 					}
 				]
 			},
